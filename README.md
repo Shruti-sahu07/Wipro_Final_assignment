@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # Wipro_TalentNext
-=======
-# Wipro-TalentNext-FY24_25
+
 >>>>>>> c479f25306847d84afea49947263754c607f6a70
 
 | Topic                                         |
